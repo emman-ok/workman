@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Owned by AppWand: the app icon on Android 8 and later, made from the logo. -->
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@color/appwand_icon_background" />
+    <foreground android:drawable="@drawable/appwand_icon_foreground" />
+</adaptive-icon>

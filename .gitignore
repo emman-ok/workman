@@ -1,0 +1,18 @@
+# Dependencies and build output
+node_modules/
+.dart_tool/
+app/build/
+
+# Local configuration: copy api/.env.example to api/.env and fill it in
+.env
+.env.*
+!.env.example
+
+# Files uploaded while running the API
+api/uploads/
+
+# Logs, editors and OS
+*.log
+.idea/
+.DS_Store
+Thumbs.db
